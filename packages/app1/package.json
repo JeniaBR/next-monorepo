@@ -1,0 +1,11 @@
+{
+    "name": "app1",
+    "version": "1.0.0",
+    "scripts": {
+      "dev": "next dev -p 3010",
+      "build": "next build",
+      "start": "next start"
+    },
+    "author": "",
+    "license": "ISC"
+  }
