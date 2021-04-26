@@ -6,6 +6,9 @@
       "build": "next build",
       "start": "next start"
     },
+    "dependencies": {
+      "@shared/components":"1.0.0"
+    },
     "author": "",
     "license": "ISC"
   }
