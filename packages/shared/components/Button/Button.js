@@ -1,3 +1,5 @@
+/** @jsx jsx */
+
 function Button({ label }) {
   return <button style={{ backgroundColor: "hotpink" }}>{label}</button>;
 }

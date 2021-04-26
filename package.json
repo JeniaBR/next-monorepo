@@ -10,7 +10,9 @@
   "scripts": {
     "app1": "npm run dev -w app1",
     "app2": "npm run dev -w app2",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "cra": "npm start -w cra",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "updatePackages": "npx ncu --deep"
   },
   "repository": {
     "type": "git",
